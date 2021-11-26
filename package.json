@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bitcoin-chart-cli": "^3.7.0",
+    "btc-value": "^4.0.0",
+    "chart-sc": "^1.0.3",
+    "coingecko-api": "^1.0.10",
+    "crypto-js-value": "^1.0.5",
+    "cryptowatch-embed": "^0.3.2",
+    "discord.js": "^13.3.1",
+    "discord.js-12": "^1.0.2",
+    "puppeteer": "^11.0.0",
+    "react-crypto-chart": "^0.0.2"
+  },
+  "name": "discord-self",
+  "version": "1.0.0",
+  "main": "crypto.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node crypto.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
